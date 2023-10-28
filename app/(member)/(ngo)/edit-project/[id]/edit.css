@@ -1,0 +1,14 @@
+.create-form{
+    max-width: 1000px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.section-title{
+    text-align: left;
+    font-weight: 600 !important;
+}
+
+.section-description{
+    text-align: left;
+}

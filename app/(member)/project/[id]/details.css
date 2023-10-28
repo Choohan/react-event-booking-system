@@ -1,0 +1,20 @@
+.details{
+    max-width: 1000px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.project-title{
+    font-weight: 900;
+    font-size: 20px;
+    text-align: left;
+}
+
+.details-title{
+    text-align: left;
+    font-weight: 600;
+}
+
+.details-description{
+    text-align: left;
+}

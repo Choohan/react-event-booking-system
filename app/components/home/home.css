@@ -1,0 +1,40 @@
+.hero-banner{
+    max-width: 1000px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 20px 10px;
+    min-height: 600px;
+    text-align: center;
+}
+
+.hero-banner-container{
+    background-image: url(/Banner.png);
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    background-blend-mode: overlay;
+}
+
+.hero-banner h1{
+    font-weight: 800;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.hero-banner h1 span{
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.hero-banner p{
+    margin-bottom: 30px;
+
+}
+
+.homeListing{
+    max-width: 1000px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.homeListingTitle h3{
+    font-weight: 600;
+    font-size: 25px;
+}

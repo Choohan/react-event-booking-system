@@ -1,0 +1,11 @@
+.project-listing{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project-listing h3{
+    font-weight: 600;
+    font-size: 25px;
+
+}
